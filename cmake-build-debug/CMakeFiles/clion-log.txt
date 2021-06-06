@@ -1,0 +1,4 @@
+/home/sizen/clion/clion-2020.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sizen/CLionProjects/generate_LS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sizen/CLionProjects/generate_LS/cmake-build-debug
